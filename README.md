@@ -51,6 +51,7 @@ pip install -r requirements.txt
 ```
 
 4. Configure environment variables
+   VISIT : [CREATE DEV APP](https://www.reddit.com/prefs/apps)
 ```bash
 # Create .env file with:
 REDDIT_CLIENT_ID=your_id
