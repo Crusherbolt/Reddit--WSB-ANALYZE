@@ -1,0 +1,7 @@
+Symbol|Name
+AAPL|Apple Inc.
+TSLA|Tesla Inc.
+GME|GameStop Corp.
+NVDA|NVIDIA Corp.
+AMC|AMC Entertainment
+MSFT|Microsoft Corp.
