@@ -1,4 +1,4 @@
-# WallStreetBets Analysis Bot 📈
+# WallStreetBets Analyzer Bot 📈
 
 > Real-time sentiment analysis tool for r/wallstreetbets trading signals
 
